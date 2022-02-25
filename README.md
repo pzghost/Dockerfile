@@ -1,2 +1,2 @@
-# xmrig
+[xmrig](./xmrig/README.md)
 
