@@ -1,2 +1,2 @@
-# xmrig-docker
-xmrig 
+# xmrig
+
